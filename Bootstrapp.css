@@ -1,0 +1,21 @@
+#a {
+  color: rgb(0, 0, 0);
+}
+#a:hover {
+  background-color: #004f4d;
+  color: antiquewhite;
+}
+#height {
+  height: 500px;
+}
+#Work {
+  text-align: center;
+  font-family: inherit;
+  color: #004f4d;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+body {
+  /* background-image: url(kkbk.jpg); */
+  background-color: antiquewhite;
+}
